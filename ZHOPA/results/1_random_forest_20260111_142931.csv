@@ -1,0 +1,4 @@
+ip,timestamp,packet_count,total_bytes,avg_packet_size,unique_dst_ports,syn_count,syn_ack_ratio,packets_per_second,bytes_per_second,port_scan_score,label,prediction
+10.0.1.15,2025-09-12 18:52:08.044377,5,477,95.4,2,1,1.0,3.4482758620689653,328.9655172413793,0.4,normal,normal
+10.0.1.100,2025-09-12 18:52:07.294377,2,274,137.0,1,0,1.0,3.076923076923077,421.53846153846155,0.5,normal,normal
+10.0.1.25,2025-09-12 18:52:07.994377,3,276,92.0,1,1,0.0,15.0,1380.0,0.3333333333333333,normal,normal
